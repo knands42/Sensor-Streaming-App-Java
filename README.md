@@ -13,4 +13,4 @@ gradle run
 
 ## Related Projects
 
-See also a JAVA version of the same project -> [here](https://github.com/knands42/Sensor-Streaming-App-Kotlin)
+See also a Kotlin version of the same project -> [here](https://github.com/knands42/Sensor-Streaming-App-Kotlin)
